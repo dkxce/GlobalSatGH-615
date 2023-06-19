@@ -1,0 +1,158 @@
+2023-06-19 11:59:52,411 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 11:59:52,411 DEBUG GH600 533 _writeSerial writing to serialport: 020001BFBE
+2023-06-19 11:59:54,418 DEBUG GH600 537 _writeSerial waiting at serialport: 12
+2023-06-19 11:59:56,423 DEBUG GH600 543 _readSerial serial port returned: BF000847482D36313542005A
+2023-06-19 11:59:56,479 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 12:00:00,609 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 12:00:00,609 DEBUG GH600 533 _writeSerial writing to serialport: 0200018584
+2023-06-19 12:00:02,618 DEBUG GH600 537 _writeSerial waiting at serialport: 90
+2023-06-19 12:00:04,628 DEBUG GH600 543 _readSerial 85005647482D363135420000000000... (truncated)
+2023-06-19 12:00:04,684 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 12:00:12,756 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 12:00:12,756 DEBUG GH600 533 _writeSerial writing to serialport: 0200017776
+2023-06-19 12:00:14,766 DEBUG GH600 537 _writeSerial waiting at serialport: 4
+2023-06-19 12:00:16,773 DEBUG GH600 543 _readSerial serial port returned: 77000000
+2023-06-19 12:00:16,829 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 12:00:18,851 INFO GH600 723 exportWaypoints Successfully wrote waypoints to C:\Downloads\build_186_windows\waypoints.txt
+2023-06-19 12:14:44,118 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 12:14:44,118 DEBUG GH600 533 _writeSerial writing to serialport: 020001BFBE
+2023-06-19 12:14:46,128 DEBUG GH600 537 _writeSerial waiting at serialport: 12
+2023-06-19 12:14:48,130 DEBUG GH600 543 _readSerial serial port returned: BF000847482D36313542005A
+2023-06-19 12:14:48,187 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 12:14:51,381 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 12:14:51,381 DEBUG GH600 533 _writeSerial writing to serialport: 0200018584
+2023-06-19 12:14:53,388 DEBUG GH600 537 _writeSerial waiting at serialport: 90
+2023-06-19 12:14:55,391 DEBUG GH600 543 _readSerial 85005647482D363135420000000000... (truncated)
+2023-06-19 12:14:55,447 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 14:32:17,267 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 14:32:17,267 DEBUG GH600 533 _writeSerial writing to serialport: 020001BFBE
+2023-06-19 14:32:19,270 DEBUG GH600 537 _writeSerial waiting at serialport: 12
+2023-06-19 14:32:21,279 DEBUG GH600 543 _readSerial serial port returned: BF000847482D36313542005A
+2023-06-19 14:32:21,335 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 14:32:26,674 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 14:32:26,674 DEBUG GH600 533 _writeSerial writing to serialport: 0200018584
+2023-06-19 14:32:28,683 DEBUG GH600 537 _writeSerial waiting at serialport: 90
+2023-06-19 14:32:30,694 DEBUG GH600 543 _readSerial 85005647482D36313542000000034F... (truncated)
+2023-06-19 14:32:30,750 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 14:32:33,576 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 14:32:33,576 DEBUG GH600 533 _writeSerial writing to serialport: 0200017776
+2023-06-19 14:32:35,581 DEBUG GH600 537 _writeSerial waiting at serialport: 274
+2023-06-19 14:32:37,588 DEBUG GH600 543 _readSerial 77010E30313400414C00000000034F... (truncated)
+2023-06-19 14:32:37,647 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 14:32:39,657 INFO GH600 723 exportWaypoints Successfully wrote waypoints to C:\Downloads\build_186_windows\waypoints.txt
+2023-06-19 15:45:32,865 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 15:45:32,865 DEBUG GH600 533 _writeSerial writing to serialport: 020001BFBE
+2023-06-19 15:45:34,880 DEBUG GH600 537 _writeSerial waiting at serialport: 12
+2023-06-19 15:45:36,891 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 15:45:36,891 DEBUG GH600 533 _writeSerial writing to serialport: 020001BFBE
+2023-06-19 15:45:38,904 DEBUG GH600 537 _writeSerial waiting at serialport: 12
+2023-06-19 15:45:40,913 DEBUG GH600 543 _readSerial serial port returned: BF000847482D36313542005A
+2023-06-19 15:45:40,969 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 15:49:28,203 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 15:49:28,203 DEBUG GH600 533 _writeSerial writing to serialport: 020001BFBE
+2023-06-19 15:49:30,207 DEBUG GH600 537 _writeSerial waiting at serialport: 12
+2023-06-19 15:49:32,213 DEBUG GH600 543 _readSerial serial port returned: BF000847482D36313542005A
+2023-06-19 15:49:32,269 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 15:49:55,592 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 15:49:55,592 DEBUG GH600 533 _writeSerial writing to serialport: 020001BFBE
+2023-06-19 15:49:57,596 DEBUG GH600 537 _writeSerial waiting at serialport: 12
+2023-06-19 15:49:59,611 DEBUG GH600 543 _readSerial serial port returned: BF000847482D36313542005A
+2023-06-19 15:49:59,667 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 15:50:05,019 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 15:50:05,019 DEBUG GH600 533 _writeSerial writing to serialport: 0200018584
+2023-06-19 15:50:07,023 DEBUG GH600 537 _writeSerial waiting at serialport: 90
+2023-06-19 15:50:09,036 DEBUG GH600 543 _readSerial 85005647482D36313542000000034F... (truncated)
+2023-06-19 15:50:09,092 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 15:50:14,573 INFO GH600 739 importWaypoints Successfully read waypoints 1
+2023-06-19 15:50:14,655 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 15:50:14,655 DEBUG GH600 533 _writeSerial writing to serialport: 020015760001424B2D412020000E000003500BBA023DAFACD7
+2023-06-19 15:50:16,671 DEBUG GH600 537 _writeSerial waiting at serialport: 6
+2023-06-19 15:50:18,687 DEBUG GH600 543 _readSerial serial port returned: 760002000103
+2023-06-19 15:50:18,687 INFO GH600 753 setWaypoints waypoints updated: 1
+2023-06-19 15:50:18,743 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 15:50:26,526 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 15:50:26,526 DEBUG GH600 533 _writeSerial writing to serialport: 0200017776
+2023-06-19 15:50:28,530 DEBUG GH600 537 _writeSerial waiting at serialport: 22
+2023-06-19 15:50:30,539 DEBUG GH600 543 _readSerial 770012424B2D412020000E00000350... (truncated)
+2023-06-19 15:50:30,595 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 15:50:32,608 INFO GH600 723 exportWaypoints Successfully wrote waypoints to C:\Downloads\build_186_windows\waypoints.txt
+2023-06-19 15:50:35,288 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 15:50:35,289 DEBUG GH600 533 _writeSerial writing to serialport: 0200018584
+2023-06-19 15:50:37,301 DEBUG GH600 537 _writeSerial waiting at serialport: 90
+2023-06-19 15:50:39,312 DEBUG GH600 543 _readSerial 85005647482D363135420000000350... (truncated)
+2023-06-19 15:50:39,368 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 15:51:01,680 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 15:51:01,680 DEBUG GH600 533 _writeSerial writing to serialport: 020001BFBE
+2023-06-19 15:51:03,690 DEBUG GH600 537 _writeSerial waiting at serialport: 12
+2023-06-19 15:51:05,694 DEBUG GH600 543 _readSerial serial port returned: BF000847482D36313542005A
+2023-06-19 15:51:05,752 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 15:51:08,358 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 15:51:08,358 DEBUG GH600 533 _writeSerial writing to serialport: 0200018584
+2023-06-19 15:51:10,361 DEBUG GH600 537 _writeSerial waiting at serialport: 90
+2023-06-19 15:51:12,367 DEBUG GH600 543 _readSerial 85005647482D363135420000000350... (truncated)
+2023-06-19 15:51:12,423 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 15:51:28,621 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 15:51:28,621 DEBUG GH600 533 _writeSerial writing to serialport: 0200017776
+2023-06-19 15:51:30,621 DEBUG GH600 537 _writeSerial waiting at serialport: 22
+2023-06-19 15:51:32,625 DEBUG GH600 543 _readSerial 770012424B2D412020000E00000350... (truncated)
+2023-06-19 15:51:32,680 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 15:51:34,697 INFO GH600 723 exportWaypoints Successfully wrote waypoints to C:\Downloads\build_186_windows\waypoints.txt
+2023-06-19 15:53:24,660 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 15:53:24,660 DEBUG GH600 533 _writeSerial writing to serialport: 020001BFBE
+2023-06-19 15:53:27,065 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 15:53:27,065 DEBUG GH600 533 _writeSerial writing to serialport: 020001BFBE
+2023-06-19 15:53:29,073 DEBUG GH600 537 _writeSerial waiting at serialport: 12
+2023-06-19 15:53:31,078 DEBUG GH600 543 _readSerial serial port returned: BF000847482D36313542005A
+2023-06-19 15:53:31,135 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 15:53:34,756 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 15:53:34,756 DEBUG GH600 533 _writeSerial writing to serialport: 020001BFBE
+2023-06-19 15:53:36,762 DEBUG GH600 537 _writeSerial waiting at serialport: 12
+2023-06-19 15:53:38,775 DEBUG GH600 543 _readSerial serial port returned: BF000847482D36313542005A
+2023-06-19 15:53:38,829 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 15:53:44,142 INFO GH600 739 importWaypoints Successfully read waypoints 1
+2023-06-19 15:53:44,224 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 15:53:44,224 DEBUG GH600 533 _writeSerial writing to serialport: 0200157600014441342D544D00010000034B764A023F7E0455
+2023-06-19 15:53:46,239 DEBUG GH600 537 _writeSerial waiting at serialport: 6
+2023-06-19 15:53:48,243 DEBUG GH600 543 _readSerial serial port returned: 760002000103
+2023-06-19 15:53:48,243 INFO GH600 753 setWaypoints waypoints updated: 1
+2023-06-19 15:53:48,301 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 15:53:56,401 INFO GH600 739 importWaypoints Successfully read waypoints 2
+2023-06-19 15:53:56,484 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 15:53:56,484 DEBUG GH600 533 _writeSerial writing to serialport: 020027760002424B2D412020000E000003500BBA023DAFAC4441342D544D00010000034B764A023F7E04D1
+2023-06-19 15:53:58,493 DEBUG GH600 537 _writeSerial waiting at serialport: 6
+2023-06-19 15:54:00,502 DEBUG GH600 543 _readSerial serial port returned: 760002000200
+2023-06-19 15:54:00,502 INFO GH600 753 setWaypoints waypoints updated: 2
+2023-06-19 15:54:00,558 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 15:54:19,269 INFO GH600 739 importWaypoints Successfully read waypoints 13
+2023-06-19 15:54:19,352 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 15:54:19,355 DEBUG GH600 533 _writeSerial writing to serialport: 0200ED76000D424B2D412020000E000003500BBA023DAFAC4441342D544D00010000034B764A023F7E044441342D544100010000034B0AAC023B848E414952533031000D0000034B578C023A1C525553484B2D31001000000336C72C024AC3404750313035200015000003377D2002496FCC4752554E5420001C00000336F404024AD2544D414B2D5542000E0000034F9A74023CDD85424B2D554220000E0000034FA5B5023CA2255573682D313800010000034F9676023CF24C497A752D353000010000034F88FC023D1F425A4C4F44455900050000034B614D023FDD87474C4F42555300180000034FB9CD023C1D639D
+2023-06-19 15:54:21,384 DEBUG GH600 537 _writeSerial waiting at serialport: 6
+2023-06-19 15:54:23,395 DEBUG GH600 543 _readSerial serial port returned: 760002000D0F
+2023-06-19 15:54:23,395 INFO GH600 753 setWaypoints waypoints updated: 13
+2023-06-19 15:54:23,451 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 16:41:47,467 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 16:41:47,467 DEBUG GH600 533 _writeSerial writing to serialport: 020001BFBE
+2023-06-19 16:41:50,395 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 16:41:50,395 DEBUG GH600 533 _writeSerial writing to serialport: 020001BFBE
+2023-06-19 16:41:52,407 DEBUG GH600 537 _writeSerial waiting at serialport: 12
+2023-06-19 16:41:54,413 DEBUG GH600 543 _readSerial serial port returned: BF000847482D36313542005A
+2023-06-19 16:41:54,469 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 16:42:07,778 INFO GH600 739 importWaypoints Successfully read waypoints 1
+2023-06-19 16:42:07,861 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 16:42:07,861 DEBUG GH600 533 _writeSerial writing to serialport: 020015760001424B2D412020000E000003500BBA023DAFACD7
+2023-06-19 16:42:09,868 DEBUG GH600 537 _writeSerial waiting at serialport: 6
+2023-06-19 16:42:11,871 DEBUG GH600 543 _readSerial serial port returned: 760002000103
+2023-06-19 16:42:11,871 INFO GH600 753 setWaypoints waypoints updated: 1
+2023-06-19 16:42:11,927 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 17:14:55,756 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 17:14:55,756 DEBUG GH600 533 _writeSerial writing to serialport: 020001BFBE
+2023-06-19 17:14:57,766 DEBUG GH600 537 _writeSerial waiting at serialport: 12
+2023-06-19 17:14:59,773 DEBUG GH600 543 _readSerial serial port returned: BF000847482D36313542005A
+2023-06-19 17:14:59,828 DEBUG GH600 523 _disconnectSerial serial connection closed
+2023-06-19 17:15:04,947 INFO GH600 739 importWaypoints Successfully read waypoints 13
+2023-06-19 17:15:05,029 DEBUG GH600 515 _connectSerial serial connection on COM5
+2023-06-19 17:15:05,030 DEBUG GH600 533 _writeSerial writing to serialport: 0200ED76000D424B2D412020000E000003500BBA023DAFAC4441342D544D00010000034B764A023F7E044441342D544100010000034B0AAC023B848E414952533031000D0000034B578C023A1C525553484B2D31001000000336C72C024AC3404750313035200015000003377D2002496FCC4752554E5420001C00000336F404024AD2544D414B2D5542000E0000034F9A74023CDD85424B2D554220000E0000034FA5B5023CA2255573682D313800010000034F9676023CF24C497A752D353000010000034F88FC023D1F425A4C4F44455900050000034B614D023FDD87474C4F42555300180000034FB9CD023C1D639D
+2023-06-19 17:15:07,052 DEBUG GH600 537 _writeSerial waiting at serialport: 6
+2023-06-19 17:15:09,053 DEBUG GH600 543 _readSerial serial port returned: 760002000D0F
+2023-06-19 17:15:09,053 INFO GH600 753 setWaypoints waypoints updated: 13
+2023-06-19 17:15:09,111 DEBUG GH600 523 _disconnectSerial serial connection closed

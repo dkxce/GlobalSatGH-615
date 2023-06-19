@@ -1,0 +1,14 @@
+C:\Users\dkxce\source\repos\GlobalSatGH-615\GlobalSatGH-615\GlobalSatGH-615\bin\Debug\GlobalSatGH-615.exe.config
+C:\Users\dkxce\source\repos\GlobalSatGH-615\GlobalSatGH-615\GlobalSatGH-615\bin\Debug\GlobalSatGH-615.exe
+C:\Users\dkxce\source\repos\GlobalSatGH-615\GlobalSatGH-615\GlobalSatGH-615\bin\Debug\GlobalSatGH-615.pdb
+C:\Users\dkxce\source\repos\GlobalSatGH-615\GlobalSatGH-615\GlobalSatGH-615\obj\Debug\GlobalSatGH-615.csproj.AssemblyReference.cache
+C:\Users\dkxce\source\repos\GlobalSatGH-615\GlobalSatGH-615\GlobalSatGH-615\obj\Debug\GlobalSatGH-615.csproj.SuggestedBindingRedirects.cache
+C:\Users\dkxce\source\repos\GlobalSatGH-615\GlobalSatGH-615\GlobalSatGH-615\obj\Debug\GlobalSatGH_615.Properties.Resources.resources
+C:\Users\dkxce\source\repos\GlobalSatGH-615\GlobalSatGH-615\GlobalSatGH-615\obj\Debug\GlobalSatGH-615.csproj.GenerateResource.cache
+C:\Users\dkxce\source\repos\GlobalSatGH-615\GlobalSatGH-615\GlobalSatGH-615\obj\Debug\GlobalSatGH-615.csproj.CoreCompileInputs.cache
+C:\Users\dkxce\source\repos\GlobalSatGH-615\GlobalSatGH-615\GlobalSatGH-615\obj\Debug\GlobalSatGH-615.exe
+C:\Users\dkxce\source\repos\GlobalSatGH-615\GlobalSatGH-615\GlobalSatGH-615\obj\Debug\GlobalSatGH-615.pdb
+C:\Users\dkxce\source\repos\GlobalSatGH-615\GlobalSatGH-615\GlobalSatGH-615\obj\Debug\GlobalSatGH_615.GForm.resources
+C:\Users\dkxce\source\repos\GlobalSatGH-615\GlobalSatGH-615\GlobalSatGH-615\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dkxce\source\repos\GlobalSatGH-615\GlobalSatGH-615\GlobalSatGH-615\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dkxce\source\repos\GlobalSatGH-615\GlobalSatGH-615\GlobalSatGH-615\obj\Debug\GlobalSatGH-615.csproj.CopyComplete
