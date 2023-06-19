@@ -1,4 +1,4 @@
-# GlobalSatGH-615
+# Global SatGH-615
 
 GlobalSat GPS/Map Wrist Watch GH-600 GH-615 GH-625 Waypoints Upload/Download
 
