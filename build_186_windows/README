@@ -42,3 +42,7 @@ execute with the following arguments:
 `gh615_console.exe c -f fitlog -m` Saves all tracks in the "fitlog" format to the "export" directory of the running application
 
 `gh615_console.exe d -i c://track1.gpx -i c://track2.gpx` Uploads both gpx-files
+
+### If you have some problem with uploading waypoints ###
+
+  * check comma (,) after {} json blocks in waypoints.txt file
