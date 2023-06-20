@@ -17,6 +17,10 @@ GlobalSat GPS/Map Wrist Watch GH-600 GH-615 GH-625 Waypoints Upload/Download
  25 hours when GPS “OFF” and Backlight “OFF”.
  11 hours when GPS “ON” and Backlight “OFF”.
 
+ ***Drivers***:
+ - [Actual](https://github.com/dkxce/HG-UV98/tree/master/Drivers/PL2303X)
+ - [XP, Old](Globalsat%20GH-615%20-%20Drivers)
+
 <img src="gs1.jpg"/>        
 <img src="gs2.jpg"/>        
 <img src="gs3.jpg"/>        
